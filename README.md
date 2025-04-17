@@ -1,4 +1,4 @@
-# Manual Image to Text OCR 
+# [Manual Image to Text OCR](https://llms-ocr-demo.vercel.app/)
 ### Used as an interactive demo in a presentation for CS4973: Engineering LLM-Integrated Systems
 ### Made with v0.
 
