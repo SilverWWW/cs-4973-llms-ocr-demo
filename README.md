@@ -1,4 +1,9 @@
-# Text to Image Website
+# Manual Image to Text OCR 
+### Used as an interactive demo in a presentation for CS4973: Engineering LLM-Integrated Systems
+### Made with v0.
+
+<details>
+<summary>See v0 details.</summary>
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
@@ -28,3 +33,5 @@ Continue building your app on:
 2. Deploy your chats from the v0 interface
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
+
+</details>
